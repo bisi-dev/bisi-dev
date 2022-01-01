@@ -1,4 +1,26 @@
-### Hi there, I'm Ayo 👋
+<img src="https://raw.githubusercontent.com/bisi-dev/bisi-dev/main/banner.png"/>
+<h1 align="center"> AYODEJI OLABISI </h1>
+<hr></hr>
+<p align="center">
+  <samp>
+    Hi there, I'm Ayo 👋<br>
+    I'm a software developer specializing in building excellent digital experiences. <br>
+    I'm actively commited to building accessible, human-centered digital products for use. <br>
+    I’m currently learning Advanced JS principles. <br>
+    I’m looking to collaborate in building/maintaining/improving SaaS products. <br>
+    :email:	yinka.olabisi@yahoo.com <br>
+    :link: Portfolio: https://bisi.dev <br>
+    :briefcase: LinkedIn: https://www.linkedin.com/in/olaoluwayinka-olabisi <br>
+     Twitter: https://twitter.com/bisi_dev
+  </samp>
+</p>
+
+
+
+
+<!--
+**bisithegeek/bisithegeek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 - 💻 I am a full-stack developer (MERN stack)
 - 📐 I am obsessed with the clean code architecture by Bob Martin 
 
@@ -18,10 +40,6 @@
 - 🧑‍💻 Become a professional software engineer
 - 📊 Build a career in data science (python)
 - 📚 Read a book every week
-
-
-<!--
-**bisithegeek/bisithegeek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
