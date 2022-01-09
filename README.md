@@ -6,8 +6,8 @@
     Hi there, I'm Ayo 👋<br>
     I'm a software developer specializing in building excellent digital experiences. <br>
     I'm actively commited to building accessible, human-centered digital products for use. <br>
-    I’m currently learning Advanced JS principles. <br>
-    I’m looking to collaborate in building/maintaining/improving SaaS products. <br>
+    I’m currently on a Business Analytics nanodegree and also learning Advanced JS principles. <br>
+    I’m looking to collaborate in building/maintaining/improving digital products. <br>
     :email:	yinka.olabisi@yahoo.com <br>
     :link: Portfolio: https://bisi.dev <br>
     :briefcase: LinkedIn: https://www.linkedin.com/in/olaoluwayinka-olabisi <br>
