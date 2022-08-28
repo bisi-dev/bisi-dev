@@ -9,7 +9,7 @@
     I’m looking to collaborate in building/maintaining/improving digital products. <br>
     :email:	yinka.olabisi@yahoo.com <br>
     :link: Portfolio: https://bisi.dev <br>
-    :link: https://flutter-portfolio-bisi.netlify.app/<br>
+    :link: https://flutter.bisi.dev<br>
     :briefcase: LinkedIn: https://www.linkedin.com/in/ayodeji-olabisi <br>
      Twitter: https://twitter.com/bisi_dev
   </samp>
