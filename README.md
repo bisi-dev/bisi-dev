@@ -9,7 +9,7 @@ I am a software developer specializing in building excellent digital experiences
 
 <img align="right" alt="GIF" src="https://github.com/bisi-dev/bisi-dev/blob/main/ayo_mobile_work.gif?raw=true" width="385" height="300" />
 
-- 👨🏻‍💻 I build high quality cross-platform / native applications with Flutter / Kotlin
+- 👨🏻‍💻 I build high quality cross-platform / native / web / mobile applications with any mainstream programming language
 - 👯 I am actively commited and looking to collaborate in building / maintaining / improving accessible, human-centered digital products
 - 💬 Feel free to reach out to ask me about anything. I look forward to connecting with you !
  
